@@ -9,7 +9,7 @@ public class DisplayInfo : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		GetComponent<Renderer>().enabled = false;
+		// GetComponent<Renderer>().enabled = false;
 		hideAllText ();
 	}
 	
